@@ -48,7 +48,8 @@ Ensure you have Python 3.x installed along with the following libraries:
 ### Installation:
 1. Clone the repository:https://github.com/sp23aax/Nutritional-Analysis.git
 2. Navigate to the project directory:https://github.com/sp23aax/Nutritional-Analysis/blob/main/Nutritional_Food_EDA%20.ipynb
-3. Install the required libraries
+3. Install the required libraries:pip install -r requirements.txt
+
 
 ### Running the Project:
 1. Load the datasets into the project folder.

@@ -48,16 +48,9 @@ Ensure you have Python 3.x installed along with the following libraries:
 ### Installation:
 1. Clone the repository:
    ```bash
-   git clone <repository_link>
-   ```
+   git clone <repository_link
 2. Navigate to the project directory:
-   ```bash
-   cd nutritional-data-analysis
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. Install the required libraries
 
 ### Running the Project:
 1. Load the datasets into the project folder.

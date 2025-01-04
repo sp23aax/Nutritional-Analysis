@@ -24,17 +24,16 @@ This project focuses on analyzing nutritional data from multiple datasets and pr
 - Explore deep learning techniques for enhanced model performance.
 
 ## 3. Table of Contents
-1. [Project Title](#1-project-title)
-2. [Project Description](#2-project-description)
-3. [Table of Contents](#3-table-of-contents)
-4. [How to Install and Run the Project](#4-how-to-install-and-run-the-project)
-5. [Data Preprocessing](#5-data-preprocessing)
-6. [Exploratory Data Analysis (EDA)](#6-exploratory-data-analysis-eda)
-7. [Model Training and Evaluation](#7-model-training-and-evaluation)
-8. [Hyperparameter Tuning](#8-hyperparameter-tuning)
-9. [Feature Importance](#9-feature-importance)
-10. [Model Saving and Loading](#10-model-saving-and-loading)
-
+1.Project Title
+2.Project Description
+3.Table of Contents
+4.How to Install and Run the Project
+5.Data Preprocessing
+6.Exploratory Data Analysis (EDA)
+7.Model Training and Evaluation
+8.Hyperparameter Tuning
+9.Feature Importance
+10.Model Saving and Loading
 ## 4. How to Install and Run the Project
 ### Prerequisites:
 Ensure you have Python 3.x installed along with the following libraries:

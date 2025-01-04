@@ -48,8 +48,8 @@ Ensure you have Python 3.x installed along with the following libraries:
 ### Installation:
 1. Clone the repository:
    ```bash
-   git clone <repository_link
-2. Navigate to the project directory:
+   git clone <>
+2. Navigate to the project directory:https://github.com/sp23aax/Nutritional-Analysis/blob/main/Nutritional_Food_EDA%20.ipynb
 3. Install the required libraries
 
 ### Running the Project:

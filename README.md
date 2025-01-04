@@ -23,16 +23,26 @@ This project focuses on analyzing nutritional data from multiple datasets and pr
 - Integrate a web-based interface for real-time predictions.
 - Explore deep learning techniques for enhanced model performance.
 
-## 3. Table of Contents:
+## 3. Table of Contents:3. Table of Contents
+
 1.Project Title
+
 2.Project Description
+
 3.Table of Contents
+
 4.How to Install and Run the Project
+
 5.Data Preprocessing
+
 6.Exploratory Data Analysis (EDA)
+
 7.Model Training and Evaluation
+
 8.Hyperparameter Tuning
+
 9.Feature Importance
+
 10.Model Saving and Loading
 
 ## 4. How to Install and Run the Project
